@@ -1,0 +1,16 @@
+{
+  "name": "DOBRA D2C (Shopify)",
+  "short_name": "DOBRA D2C",
+  "description": "Shopify D2C sales: revenue, orders, products, stock. Refreshed 9 AM and 8 PM.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#25256A",
+  "theme_color": "#25256A",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
